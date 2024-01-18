@@ -1,0 +1,16 @@
+{
+  "name": "uzduotys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mentoriaus": "node --watch mentoriaus-uzduotys.js",
+    "index": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saulute",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
